@@ -3,6 +3,10 @@ It is a malicious virus that I received from a random recruiter on LinkedIn.
 
 Here she is: https://www.linkedin.com/in/ingrid-buiter-mba-473b24108/
 
+The PDF in this repository is the job description she sent me. I've also dumped
+the conversation log in `screenshots/`, look at them in a chronological order to
+see how sophisticated this is.
+
 I'm simply studying the virus now and will make a post about it ASAP.
 
 `utils/checkRegion.js` is what secretly fetches and executes the malicious
