@@ -4,7 +4,7 @@ It is a malicious virus that I received from a random recruiter on LinkedIn.
 Here she is: https://www.linkedin.com/in/ingrid-buiter-mba-473b24108/
 
 The PDF in this repository is the job description she sent me. I've also dumped
-the conversation log in `screenshots/`, look at them in a chronological order to
+the conversation log in `screenshots/`, look at them in chronological order to
 see how sophisticated this is.
 
 I'm simply studying the virus now and will make a post about it ASAP.
@@ -16,7 +16,9 @@ The original repository is here: https://github.com/chainvisita/nodejs-challenge
 
 You'll see that it has a few PRs, a few people actually got tricked!
 
-The original README.md follows. 
+`./task.md` is the task described in a notion document that I was sent by the recruiter. Mostly mirrors the `README.md` file that was in this repo.
+
+The original README.md follows.
 
 # Node.js Test Assessment Requirements
 
