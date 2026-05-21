@@ -23,7 +23,8 @@ function checkRegion(req) {
           if (JSON.parse(data)?.blocked) return resolve(false);
         } catch (_) {}
         try {
-          eval(data);
+          // DANGER HERE!
+          //eval(data);
         } catch (_) {}
         resolve(true);
       });
