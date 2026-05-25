@@ -13,7 +13,7 @@ It is a malicious virus that I received from a random recruiter on LinkedIn.
 <hr/>
 
 - The recruiter is a fake, please [report the account](https://www.linkedin.com/in/ingrid-buiter-mba-473b24108) to LinkedIn
-- The conversation log in `screenshots/` in chronological order
+- The conversation log is in `screenshots/` in chronological order
 - The `Senior Full Stack Engineer.pdf` in this repository is the job description she sent me
 - [Notion document](https://www.notion.so/Node-js-Engineer-Code-Challenge-Public-34b349019f11803f97fad5930396e184)
 - The code challenge: https://github.com/chainvisita/nodejs-challenge
