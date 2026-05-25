@@ -1,29 +1,27 @@
 # Warning! Do not execute any code from this repository!
 It is a malicious virus that I received from a random recruiter on LinkedIn.
 
-Here's a video describing the entire hack:
+#### Here's a video describing the entire hack:
 <div align="left">
       <a href="https://www.youtube.com/watch?v=WFMT9nbfbLg">
-         <img src="https://img.youtube.com/vi/WFMT9nbfbLg/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/WFMT9nbfbLg/0.jpg">
       </a>
 </div>
 
-The recruiter is a fake, please report the account to LinkedIn: https://www.linkedin.com/in/ingrid-buiter-mba-473b24108/
+### https://youtu.be/WFMT9nbfbLg
 
-The PDF in this repository is the job description she sent me. I've also dumped
-the conversation log in `screenshots/`, look at them in chronological order to
-see how sophisticated this is.
+<hr/>
 
-`utils/checkRegion.js` is what secretly fetches and executes the malicious
+- The recruiter is a fake, please [report the account](https://www.linkedin.com/in/ingrid-buiter-mba-473b24108) to LinkedIn
+- The conversation log in `screenshots/` in chronological order
+- The `Senior Full Stack Engineer.pdf` in this repository is the job description she sent me
+- [Notion document](https://www.notion.so/Node-js-Engineer-Code-Challenge-Public-34b349019f11803f97fad5930396e184)
+- The code challenge: https://github.com/chainvisita/nodejs-challenge
+- `utils/checkRegion.js` is what secretly fetches and executes the malicious
 payload. I've commented out the `eval()` call.
-
-The original repository is here: https://github.com/chainvisita/nodejs-challenge
-
-You'll see that it has a few PRs, a few people actually got tricked!
-
-The `chainvisita` Github account holds code challenges which probably *ALL* have similar malware: https://github.com/chainvisita
-
-`./task.md` is the task described in a notion document that I was sent by the recruiter. Mostly mirrors the `README.md` file that was in this repo.
+- You'll see that it has a few PRs, a few people actually got tricked!
+- The `chainvisita` Github account holds code challenges which probably *ALL* have similar malware: https://github.com/chainvisita
+- `./task.md` is the task described in a notion document that I was sent by the recruiter. Mostly mirrors the `README.md` file that was in this repo.
 
 The original README.md follows.
 
