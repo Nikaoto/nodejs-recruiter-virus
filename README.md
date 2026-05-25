@@ -12,11 +12,11 @@ It is a malicious virus that I received from a random recruiter on LinkedIn.
 
 <hr/>
 
-- The recruiter is a fake, please [report the account](https://www.linkedin.com/in/ingrid-buiter-mba-473b24108) to LinkedIn
+- The recruiter is a fake, please [report the account](https://www.linkedin.com/in/ingrid-buiter-mba-473b24108) to LinkedIn. (The account is now gone).
 - The conversation log is in `screenshots/` in chronological order
 - The `Senior Full Stack Engineer.pdf` in this repository is the job description she sent me
 - [Notion document](https://www.notion.so/Node-js-Engineer-Code-Challenge-Public-34b349019f11803f97fad5930396e184)
-- The code challenge: https://github.com/chainvisita/nodejs-challenge
+- The code challenge: https://github.com/chainvisita/nodejs-challenge (The repository has been deleted by the hacker).
 - `utils/checkRegion.js` is what secretly fetches and executes the malicious
 payload. I've commented out the `eval()` call.
 - You'll see that it has a few PRs, a few people actually got tricked!
